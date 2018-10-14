@@ -1,0 +1,4 @@
+Q3.a.2.
+From Wins+Noms as Y, we see good and bad ratings’ movies are better distributed and visualized in two areas than Budget as Y because the rating of movie reflects movie quality and has direct impact on wins, budget is only one of the factors to produce a good movie.
+Q3.c
+We use square root scale and log scale for y-axis values when the variance of original values is large so the points are distributed too far, square root can help to centralize extreme points better and provide better visualization to closer values.  

@@ -1,0 +1,22 @@
+Ease to develop
+Tableau: Pre-built connections to multiple data types, prompt feedback, easiest
+Python: many packages available, active community, simple coding for data manipulation, 2th easiest
+D3: build graph from scratch, much coding for data manipulation, hardest
+Ease to maintain the visualization
+Tableau: Pre-built functions to handle more data, easiest
+Python: Matplotlib can adjust graphics automatically, 2th easiest
+D3: Need to fix width, height, margin, parameter ratio, hardest
+Usability of visualization developed
+D3: Excellent Visualization with many graphical choices and interactions, best
+Tableau: Visualization with some interaction, moderate
+Python: Flat Visualization with many graphical choices, moderate
+Scalability of visualization to “large” datasets
+Python: Best Scalability with fast-growth data
+D3: Fair Scalability with slow DOM manipulations
+Tableau: Worst Scalability with software limit
+System requirements to run the visualization
+D3: Best, Only Browser Needed
+Python: Fair, Free IDE available but some installation needed 
+Tableau: Worst, Need commercial license and installation
+
+

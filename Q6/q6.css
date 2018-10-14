@@ -1,0 +1,21 @@
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+* {
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+p{
+    font-size:12px;
+}
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(50, 75, 100, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
